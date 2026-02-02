@@ -1,0 +1,3 @@
+0. Make sure everyone's on the right page.
+1. scrum (I'll be designing the restaurant object, Nipa will be coding something too. Bob will be making the user object too if not already.)
+2. questions
